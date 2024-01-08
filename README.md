@@ -1,6 +1,6 @@
 # *JobSequenceProject*
 ------------------------
-*This Project focuses on the optimal arrangement of jobs that certain deadlines must be completed to maximize profit or minimize loss.*
+#### *This Project focuses on the optimal arrangement of jobs that certain deadlines must be completed to maximize profit or minimize loss.*
 
 ## Problem Definition:
 ------------------------
