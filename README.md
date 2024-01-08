@@ -16,9 +16,9 @@ This Project focuses on the optimal arrangement of jobs that certain deadlines m
 ## Approach:
 --------------
 > **Greedy Algorithm**: One of the most common approaches is using a greedy algorithm, where jobs are prioritized based on their profit or deadline. 
-                         The algorithm selects the job that offers the most benefit (highest profit or lowest penalty) first.<br/>
-  **Sorting**: Jobs are often sorted based on their profit or deadline as part of the algorithm.<br/>
-  **Feasibility Check**: After sorting, each job is checked for feasibility, i.e., whether it can be completed within its deadline.<br/>
+                         The algorithm selects the job that offers the most benefit (highest profit or lowest penalty) first.<br/><br/>
+  **Sorting**: Jobs are often sorted based on their profit or deadline as part of the algorithm.<br/><br/>
+  **Feasibility Check**: After sorting, each job is checked for feasibility, i.e., whether it can be completed within its deadline.<br/><br/>
 
 ## Complexity:
 ---------------
